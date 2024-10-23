@@ -1,2 +1,2 @@
 # NLP (Apr 2024 - May 2024)
-Nlp Projects
+NLP projects, covering a wide range of applications and techniques. 
